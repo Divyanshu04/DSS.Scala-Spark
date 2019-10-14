@@ -1,0 +1,4 @@
+[debug] Acquiring lock on file E:\scalarepo\TESTCASE\project\target\.sbt-compilation-infos\testcase-test\.sbt-idea-lock ...
+[warn] there were four deprecation warnings (since 2.12.0); re-run with -deprecation for details
+[warn] one warning found
+[debug] Releasing lock on file E:\scalarepo\TESTCASE\project\target\.sbt-compilation-infos\testcase-test\.sbt-idea-lock.
